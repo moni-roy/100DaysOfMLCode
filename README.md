@@ -18,4 +18,4 @@ Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/blob/ma
 
 Date: March 7, 2020
 
-Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/blob/master/Codes/Multiple Linear Regression.ipynb>), and [Commit](<hhttps://github.com/moni-roy/100DaysOfMLCode/commit/efacc798b6f632b0945dc7b266f5a5d57477c435>)
+Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/blob/master/Codes/Multiple Linear Regression.ipynb>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/efacc798b6f632b0945dc7b266f5a5d57477c435>)
