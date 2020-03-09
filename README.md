@@ -1,6 +1,6 @@
 # 100DaysOfMLCode
 
-100 Days of Maching Learning Coding
+100 Days of Machine Learning Coding
 
 ## Day-1: Data Prepocessing
 
