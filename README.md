@@ -19,3 +19,11 @@ Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/blob/ma
 Date: March 7, 2020
 
 Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/blob/master/Codes/Multiple Linear Regression.ipynb>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/efacc798b6f632b0945dc7b266f5a5d57477c435>)
+
+## Day-4: Applied Machine Learning: Foundations
+
+Date: March 9, 2020
+
+Source Course: [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-foundations).
+
+Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Applied%20Machine%20Learning:%20Foundations>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/39341bd7f99d1df00be62b4b4222b463700338f2>).
