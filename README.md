@@ -58,4 +58,4 @@ Date: March 15, 2020
 
 Source Course: [LinkedIn Learning](https://www.linkedin.com/learning/essential-math-for-machine-learning-python-edition).
 
-Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Essential%20Math%20for%20Machine%20Learning>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/6a3915facf8c0bd3df3f21f8845b8efc01ff152f>).
+Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Essential%20Math%20for%20Machine%20Learning>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/c0b94bdd52ebbc4cbef23cd45ed5bb2f425be916>).
