@@ -24,7 +24,7 @@ Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/blob/ma
 
 Date: March 9, 2020
 
-Source Course: [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-foundations).
+Course Source: [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-foundations).
 
 Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Applied%20Machine%20Learning:%20Foundations>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/39341bd7f99d1df00be62b4b4222b463700338f2>).
 
@@ -32,7 +32,7 @@ Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/ma
 
 Date: March 11, 2020
 
-Source Course: [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-foundations).
+Course Source: [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-foundations).
 
 Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Applied%20Machine%20Learning:%20Foundations>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/1fe0d068d29a3ea2eccc1618d03f408f2f83e33b>).
 
@@ -40,7 +40,7 @@ Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/ma
 
 Date: March 12, 2020
 
-Source Course: [LinkedIn Learning](https://www.linkedin.com/learning/essential-math-for-machine-learning-python-edition).
+Course Source: [LinkedIn Learning](https://www.linkedin.com/learning/essential-math-for-machine-learning-python-edition).
 
 Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Essential%20Math%20for%20Machine%20Learning>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/47db338ba271fe0d90733f0916f05232213697ab>).
 
@@ -48,7 +48,7 @@ Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/ma
 
 Date: March 14, 2020
 
-Source Course: [LinkedIn Learning](https://www.linkedin.com/learning/essential-math-for-machine-learning-python-edition).
+Course Source: [LinkedIn Learning](https://www.linkedin.com/learning/essential-math-for-machine-learning-python-edition).
 
 Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Essential%20Math%20for%20Machine%20Learning>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/6491521649486d060083cc2e8f07d7864f4614ed>).
 
@@ -56,7 +56,7 @@ Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/ma
 
 Date: March 15, 2020
 
-Source Course: [LinkedIn Learning](https://www.linkedin.com/learning/essential-math-for-machine-learning-python-edition).
+Course Source: [LinkedIn Learning](https://www.linkedin.com/learning/essential-math-for-machine-learning-python-edition).
 
 Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Essential%20Math%20for%20Machine%20Learning>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/c0b94bdd52ebbc4cbef23cd45ed5bb2f425be916>).
 
@@ -64,7 +64,7 @@ Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/ma
 
 Date: March 24, 2020
 
-Source Course: [LinkedIn Learning](https://www.linkedin.com/learning/essential-math-for-machine-learning-python-edition).
+Course Source: [LinkedIn Learning](https://www.linkedin.com/learning/essential-math-for-machine-learning-python-edition).
 
 Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Essential%20Math%20for%20Machine%20Learning>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/e8394349c07880f81c38a3647cc483a1ee23af5a>).
 
@@ -72,7 +72,7 @@ Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/ma
 
 Date: March 26, 2020
 
-Source Course: [LinkedIn Learning](https://www.linkedin.com/learning/essential-math-for-machine-learning-python-edition).
+Course Source: [LinkedIn Learning](https://www.linkedin.com/learning/essential-math-for-machine-learning-python-edition).
 
 Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Essential%20Math%20for%20Machine%20Learning>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/94d496b5e72ab9664b7b82d1dfc88dc636edc0e5>).
 
@@ -80,7 +80,7 @@ Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/ma
 
 Date: March 27, 2020
 
-Source Course: [LinkedIn Learning](https://www.linkedin.com/learning/essential-math-for-machine-learning-python-edition).
+Course Source: [LinkedIn Learning](https://www.linkedin.com/learning/essential-math-for-machine-learning-python-edition).
 
 Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Essential%20Math%20for%20Machine%20Learning>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/56e9e7fd0535a134285b919103134131300a89d3>).
 
@@ -88,6 +88,6 @@ Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/ma
 
 Date: March 29, 2020
 
-Source Course: [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-recommendations).
+Course Source: [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-recommendations).
 
 Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Machine Learning and AI Foundations: Recommendations>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/8c2b779cc49e4aee78bfc4e6c81779204331113c>).
