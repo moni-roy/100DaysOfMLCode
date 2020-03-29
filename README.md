@@ -83,3 +83,11 @@ Date: March 27, 2020
 Source Course: [LinkedIn Learning](https://www.linkedin.com/learning/essential-math-for-machine-learning-python-edition).
 
 Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Essential%20Math%20for%20Machine%20Learning>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/56e9e7fd0535a134285b919103134131300a89d3>).
+
+## Day-12: Machine Learning and AI Foundations: Recommendations
+
+Date: March 29, 2020
+
+Source Course: [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-recommendations).
+
+Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Machine Learning and AI Foundations: Recommendations>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/8c2b779cc49e4aee78bfc4e6c81779204331113c>).
