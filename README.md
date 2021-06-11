@@ -99,3 +99,13 @@ Date: April 1, 2020
 Course Source: [Udemy](https://www.udemy.com/course/machine-learning-linear-regression-step-by-step-guide/).
 
 Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Machine Learning : Linear Regression>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/3186e3ef7a8a74322085b9fe583dcae995e5e41c>).
+
+## Long break
+
+## Day-14: Evaluation Metrics
+
+Date: June 10, 2021
+
+Book Source: [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhi1thakur/approachingalmost)
+
+Check out the [Source Code](https://github.com/moni-roy/100DaysOfMLCode/blob/master/AAAMLP/Metrices.ipynb), and [Commit](https://github.com/moni-roy/100DaysOfMLCode/commit/248b7ddf289dffce7a6d49afa0666ba7bac54868).
