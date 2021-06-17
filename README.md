@@ -26,7 +26,7 @@ Date: March 9, 2020
 
 Course Source: [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-foundations).
 
-Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Applied%20Machine%20Learning:%20Foundations>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/39341bd7f99d1df00be62b4b4222b463700338f2>).
+Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Applied Machine Learning - Foundations>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/39341bd7f99d1df00be62b4b4222b463700338f2>).
 
 ## Day-5: Applied Machine Learning: Foundations
 
@@ -34,7 +34,7 @@ Date: March 11, 2020
 
 Course Source: [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-foundations).
 
-Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Applied%20Machine%20Learning:%20Foundations>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/1fe0d068d29a3ea2eccc1618d03f408f2f83e33b>).
+Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Applied Machine Learning - Foundations>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/1fe0d068d29a3ea2eccc1618d03f408f2f83e33b>).
 
 ## Day-6: Essential Math for Machine Learning: Python Edition
 
@@ -90,7 +90,7 @@ Date: March 29, 2020
 
 Course Source: [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-recommendations).
 
-Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Machine Learning and AI Foundations: Recommendations>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/8c2b779cc49e4aee78bfc4e6c81779204331113c>).
+Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Machine Learning and AI Foundations - Recommendations>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/8c2b779cc49e4aee78bfc4e6c81779204331113c>).
 
 ## Day-13: Machine Learning : Linear Regression [Step by Step Guide]
 
@@ -98,7 +98,7 @@ Date: April 1, 2020
 
 Course Source: [Udemy](https://www.udemy.com/course/machine-learning-linear-regression-step-by-step-guide/).
 
-Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Machine Learning : Linear Regression>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/3186e3ef7a8a74322085b9fe583dcae995e5e41c>).
+Check out the [Source Code](<https://github.com/moni-roy/100DaysOfMLCode/tree/master/Codes/Machine Learning - Linear Regression>), and [Commit](<https://github.com/moni-roy/100DaysOfMLCode/commit/3186e3ef7a8a74322085b9fe583dcae995e5e41c>).
 
 ## Long break
 
